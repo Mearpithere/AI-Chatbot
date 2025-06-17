@@ -4,21 +4,23 @@ A modern, production-ready chatbot web application built with Next.js, featuring
 
 ## 📸 Screenshots
 
-> **Note**: To see the actual screenshots, please upload your images following the instructions below.
-
 ### 🌟 Main Chat Interface
-![AI ChatBot Interface - Dark Theme](https://via.placeholder.com/800x400/1f2937/ffffff?text=Upload+Your+Chat+Interface+Screenshot+Here)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e427dc22-be20-435e-bb41-25b28f3e6128" alt="AI ChatBot Interface - Dark Theme" width="100%"/>
+  <p><em>Beautiful dark-themed interface with real-time AI conversations powered by Google Gemini</em></p>
+</div>
 
 ### 💬 Interactive Conversations
-![AI Conversation Example](https://via.placeholder.com/800x400/1f2937/ffffff?text=Upload+Your+Conversation+Screenshot+Here)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2f883506-1660-4ba2-a72a-c2ba7aef2038" alt="AI Conversation Example" width="100%"/>
+  <p><em>Smart AI responses with conversation history and intuitive user interface</em></p>
+</div>
 
-### 📝 **How to Add Your Screenshots:**
-1. **Go to**: [Your Repository Issues](https://github.com/Mearpithere/AI-Chatbot/issues)
-2. **Click**: "New Issue"
-3. **Drag & Drop**: Your two screenshots into the description box
-4. **Copy**: The generated GitHub URLs (they'll look like `https://github.com/user-attachments/assets/...`)
-5. **Replace**: The placeholder URLs above with your actual screenshot URLs
-6. **Commit**: The changes to update your README
+### 🎯 Feature Showcase
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/929a310e-d40e-4a75-b090-94c914b7b264" alt="ChatBot Features" width="100%"/>
+  <p><em>Rich feature set including voice input, message search, and AI status monitoring</em></p>
+</div>
 
 ### ✨ Key Features Showcase
 - **🎨 Modern Dark UI**: Sleek, professional interface with smooth animations
