@@ -6,7 +6,7 @@ A modern, production-ready chatbot web application built with Next.js, featuring
 
 ## 🌟 Live Demo
 
-**🔗 [Live Demo](https://your-deployed-url.vercel.app)** | **📧 [Assignment Email](mailto:zerocode.hiring@gmail.com)**
+**🔗 [Live Demo](https://your-deployed-url.vercel.app)** | **📧 [Contact Email](mailto:your-email@example.com)**
 
 > **Note**: The live demo runs in fallback mode for security. To experience AI-powered responses, follow the setup instructions below.
 
@@ -47,8 +47,8 @@ A modern, production-ready chatbot web application built with Next.js, featuring
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-username/zerocode-fe-assignment.git
-cd zerocode-fe-assignment
+git clone https://github.com/your-username/AI-chatbot.git
+cd AI-chatbot
 npm install
 ```
 
@@ -277,17 +277,17 @@ NEXT_PUBLIC_APP_NAME=Your App Name
 NEXT_PUBLIC_APP_VERSION=1.0.0
 ```
 
-## 🎯 **Assignment Submission**
+## 🎯 **Project Features**
 
-### 📋 **Evaluation Criteria Met**
+### 📋 **Core Features**
 
-#### **✅ Core Requirements (80%)**
+#### **✅ Essential Functionality**
 - **🔐 Authentication**: JWT-based register/login flows
 - **💬 Chat Interface**: Real-time messaging with auto-scroll, input history, loading indicators
 - **🎨 Styling**: Tailwind CSS with automatic dark mode
 - **🔧 Code Quality**: TypeScript, functional components, ESLint + Prettier
 
-#### **🎁 Bonus Features (20%)**
+#### **🎁 Advanced Features**
 - **🎯 Prompt Templates**: 8 categorized conversation starters
 - **🔍 Message Search**: Search with filtering and highlighting
 - **🎤 Voice Input**: Speech-to-text integration
@@ -326,16 +326,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Contact
 
 ### 🐛 **Issues & Bugs**
-- Check the [Issues](https://github.com/your-username/zerocode-fe-assignment/issues) page
+- Check the [Issues](https://github.com/your-username/AI-chatbot/issues) page
 - Create a new issue with detailed information
 
 ### 🤖 **AI Setup Help**
 - Visit [Google AI Studio](https://makersuite.google.com) for API documentation
 - Check the AI Status monitor in the app header
 
-### 📧 **Assignment Contact**
-- **Email**: [zerocode.hiring@gmail.com](mailto:zerocode.hiring@gmail.com)
-- **Subject**: ZeroCode Frontend Assignment - [Your Name]
+### 📧 **Project Contact**
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Subject**: AI ChatBot Project - [Your Name]
 
 ---
 
@@ -343,7 +343,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This ChatBot application demonstrates modern React development practices, secure authentication, AI integration, and production-ready code quality. The app works perfectly in both AI-powered and fallback modes, ensuring a great user experience regardless of configuration.
 
-**Built with ❤️ for the ZeroCode Frontend Assignment**
+**Built with ❤️ for AI-Powered Conversations**
 3. For Ollama setup help, visit [Ollama Documentation](https://github.com/ollama/ollama)
 
 ---
