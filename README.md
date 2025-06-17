@@ -25,7 +25,7 @@ A modern, production-ready chatbot web application built with Next.js, featuring
 
 ## 🌟 Live Demo
 
-**🔗 [Live Demo](https://your-deployed-url.vercel.app)** | **📧 [Contact Email](mailto:your-email@example.com)**
+**🔗 [Live Demo](https://685190d3cb494d1fe444a62a--ai-chatbot-a.netlify.app/)** | **📧 [Contact Email](mailto:your-email@example.com)**
 
 > **Note**: The live demo runs in fallback mode for security. To experience AI-powered responses, follow the setup instructions below.
 
