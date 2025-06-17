@@ -2,7 +2,26 @@
 
 A modern, production-ready chatbot web application built with Next.js, featuring secure authentication, real-time messaging, and intelligent AI responses powered by Google Gemini.
 
-![ChatBot Demo](https://via.placeholder.com/800x400/1f2937/ffffff?text=ChatBot+Demo)
+## 📸 Screenshots
+
+### 🌟 Main Chat Interface
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/your-screenshot-1-id" alt="AI ChatBot Interface" width="800"/>
+  <p><em>Beautiful dark-themed interface with real-time AI conversations</em></p>
+</div>
+
+### 💬 Interactive Conversations
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/your-screenshot-2-id" alt="AI Conversation Example" width="800"/>
+  <p><em>Smart AI responses powered by Google Gemini with conversation history</em></p>
+</div>
+
+### ✨ Key Features Showcase
+- **🎨 Modern Dark UI**: Sleek, professional interface with smooth animations
+- **🤖 AI-Powered Responses**: Intelligent conversations with Google Gemini
+- **📱 Responsive Design**: Perfect experience on desktop and mobile
+- **🔐 Secure Authentication**: JWT-based login system
+- **🎯 Rich Features**: Voice input, message search, chat export, and more
 
 ## 🌟 Live Demo
 
