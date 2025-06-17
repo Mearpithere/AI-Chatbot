@@ -56,6 +56,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         const user = JSON.parse(userData);
         dispatch({ type: 'SET_USER', payload: { user, token } });
       } catch (error) {
+        console.error('Error parsing stored user data:', error);
         localStorage.removeItem('auth_token');
         localStorage.removeItem('user_data');
         dispatch({ type: 'SET_LOADING', payload: false });
@@ -87,6 +88,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         return false;
       }
     } catch (error) {
+      console.error('Login error:', error);
       dispatch({ type: 'SET_ERROR', payload: 'Network error occurred' });
       return false;
     }
@@ -114,6 +116,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         return false;
       }
     } catch (error) {
+      console.error('Registration error:', error);
       dispatch({ type: 'SET_ERROR', payload: 'Network error occurred' });
       return false;
     }

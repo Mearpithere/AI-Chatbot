@@ -41,7 +41,7 @@ export function createUser(name: string, email: string, password: string): User 
   users.push(user);
   
   // Return user without password
-  const { password: _, ...userWithoutPassword } = user;
+  const { password, ...userWithoutPassword } = user;
   return userWithoutPassword;
 }
 
@@ -53,6 +53,6 @@ export function findUserById(id: string): User | null {
   const user = users.find(user => user.id === id);
   if (!user) return null;
   
-  const { password: _, ...userWithoutPassword } = user;
+  const { password, ...userWithoutPassword } = user;
   return userWithoutPassword;
 }

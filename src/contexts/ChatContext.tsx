@@ -104,6 +104,7 @@ export function ChatProvider({ children }: { children: React.ReactNode }) {
         payload: { id: botMessageId, content: data.response, isLoading: false },
       });
     } catch (error) {
+      console.error('Chat error:', error);
       dispatch({
         type: 'UPDATE_MESSAGE',
         payload: { id: botMessageId, content: 'Sorry, I encountered an error. Please try again.', isLoading: false },

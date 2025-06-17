@@ -30,6 +30,7 @@ export default function AIStatus({ onClose }: AIStatusProps) {
         setService(data.service || 'AI Service');
       }
     } catch (error) {
+      console.error('AI status check error:', error);
       setStatus('unavailable');
     }
   };
@@ -111,7 +112,7 @@ export default function AIStatus({ onClose }: AIStatusProps) {
                       <span className="bg-red-600 text-white rounded-full w-5 h-5 flex items-center justify-center text-xs font-bold">2</span>
                       <div>
                         <p className="font-medium">Check Internet Connection</p>
-                        <p>Make sure you have a stable internet connection to reach Google's API</p>
+                        <p>Make sure you have a stable internet connection to reach Google&apos;s API</p>
                       </div>
                     </div>
                     
@@ -131,7 +132,7 @@ export default function AIStatus({ onClose }: AIStatusProps) {
                   <h4 className="font-medium text-blue-800 dark:text-blue-400 mb-2">Fallback Mode:</h4>
                   <p className="text-sm text-blue-700 dark:text-blue-300">
                     The chatbot is currently running in fallback mode with pre-programmed responses. 
-                    Once Gemini is available, you'll get AI-powered conversations.
+                    Once Gemini is available, you&apos;ll get AI-powered conversations.
                   </p>
                 </div>
               </div>

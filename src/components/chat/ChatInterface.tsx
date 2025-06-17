@@ -36,17 +36,17 @@ export default function ChatInterface({ selectedPrompt, onPromptUsed }: ChatInte
               Welcome to ChatBot
             </h2>
             <p className="text-gray-600 dark:text-gray-400 max-w-md">
-              Start a conversation by typing a message below. I'm powered by Google Gemini AI for intelligent responses!
+              Start a conversation by typing a message below. I&apos;m powered by Google Gemini AI for intelligent responses!
             </p>
             <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-3 max-w-lg">
               <div className="bg-white dark:bg-gray-800 rounded-lg p-3 border border-gray-200 dark:border-gray-700">
                 <p className="text-sm text-gray-600 dark:text-gray-400">
-                  💡 Try asking: "What can you help me with?"
+                  💡 Try asking: &quot;What can you help me with?&quot;
                 </p>
               </div>
               <div className="bg-white dark:bg-gray-800 rounded-lg p-3 border border-gray-200 dark:border-gray-700">
                 <p className="text-sm text-gray-600 dark:text-gray-400">
-                  🚀 Or say: "Tell me about technology"
+                  🚀 Or say: &quot;Tell me about technology&quot;
                 </p>
               </div>
               <div className="bg-white dark:bg-gray-800 rounded-lg p-3 border border-gray-200 dark:border-gray-700">
