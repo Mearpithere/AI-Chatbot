@@ -29,7 +29,7 @@ export async function POST(request: NextRequest) {
     }
 
     const token = generateToken(user.id);
-    const { password, ...userWithoutPassword } = user;
+    const { password: _, ...userWithoutPassword } = user;
 
     return NextResponse.json({
       success: true,
