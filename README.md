@@ -4,17 +4,21 @@ A modern, production-ready chatbot web application built with Next.js, featuring
 
 ## 📸 Screenshots
 
+> **Note**: To see the actual screenshots, please upload your images following the instructions below.
+
 ### 🌟 Main Chat Interface
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-screenshot-1-id" alt="AI ChatBot Interface" width="800"/>
-  <p><em>Beautiful dark-themed interface with real-time AI conversations</em></p>
-</div>
+![AI ChatBot Interface - Dark Theme](https://via.placeholder.com/800x400/1f2937/ffffff?text=Upload+Your+Chat+Interface+Screenshot+Here)
 
 ### 💬 Interactive Conversations
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/your-screenshot-2-id" alt="AI Conversation Example" width="800"/>
-  <p><em>Smart AI responses powered by Google Gemini with conversation history</em></p>
-</div>
+![AI Conversation Example](https://via.placeholder.com/800x400/1f2937/ffffff?text=Upload+Your+Conversation+Screenshot+Here)
+
+### 📝 **How to Add Your Screenshots:**
+1. **Go to**: [Your Repository Issues](https://github.com/Mearpithere/AI-Chatbot/issues)
+2. **Click**: "New Issue"
+3. **Drag & Drop**: Your two screenshots into the description box
+4. **Copy**: The generated GitHub URLs (they'll look like `https://github.com/user-attachments/assets/...`)
+5. **Replace**: The placeholder URLs above with your actual screenshot URLs
+6. **Commit**: The changes to update your README
 
 ### ✨ Key Features Showcase
 - **🎨 Modern Dark UI**: Sleek, professional interface with smooth animations
@@ -25,7 +29,7 @@ A modern, production-ready chatbot web application built with Next.js, featuring
 
 ## 🌟 Live Demo
 
-**🔗 [Live Demo](https://685190d3cb494d1fe444a62a--ai-chatbot-a.netlify.app/)** | **📧 [Contact Email](mailto:your-email@example.com)**
+**🔗 [Live Demo](https://685190d3cb494d1fe444a62a--ai-chatbot-a.netlify.app/)** 
 
 > **Note**: The live demo runs in fallback mode for security. To experience AI-powered responses, follow the setup instructions below.
 
